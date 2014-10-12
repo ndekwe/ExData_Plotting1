@@ -2,6 +2,7 @@ print("TO BE DONE MANUALLY")
 print("Before running the scripts make sure you have <<sqldf>> package installed ")
 print( "This package will be used while loading the dataset subset <<read.csv.sql>>")
 
+
 # Loading the data
 data <- read.csv.sql("household_power_consumption.txt", sql = "SELECT * from file WHERE Date in ('1/2/2007', '2/2/2007')",sep = ";", header = TRUE)
 
