@@ -74,7 +74,7 @@ For each plot you should
 * Construct the plot and save it to a PNG file with a width of 480
 pixels and a height of 480 pixels.
 
-* Name each of the plot files as `plot1.png`, `plot2.png`, etc.
+* Name each of the plot files as `plot1.png`, `plot2.png`, etc
 
 * Create a separate R code file (`plot1.R`, `plot2.R`, etc.) that
 constructs the corresponding plot, i.e. code in `plot1.R` constructs
