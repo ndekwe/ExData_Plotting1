@@ -2,6 +2,7 @@ print("TO BE DONE MANUALLY")
 print("Before running the scripts make sure you have <<sqldf>> package installed ")
 print( "This package will be used while loading the dataset subset <<read.csv.sql>>")
 
+
 #install.packages("sqldf")
 #library(sqldf)
 # Loading the data
